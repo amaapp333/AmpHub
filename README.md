@@ -1,2 +1,2 @@
-# AmpHub Readme
+# Readme
 
